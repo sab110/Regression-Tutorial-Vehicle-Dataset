@@ -61,8 +61,9 @@ Neural Networks are advanced models capable of capturing complex relationships b
 ### **Step 1: Clone the Repository**
 Clone the project repository to your local machine:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone (https://github.com/sab110/Regression-Tutorial-Vehicle-Dataset.git)
+cd Regression-Tutorial-Vehicle-Dataset
+
 ```
 
 ### **Step 2: Install Dependencies**
