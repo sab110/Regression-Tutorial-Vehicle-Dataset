@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ### **Step 3: Open and Run the Notebook**
 1. Open the Jupyter Notebook or Python script in your preferred environment:
    ```bash
-   jupyter notebook car_fuel_efficiency.ipynb
+   jupyter notebook Regression.ipynb
    ```
 2. Follow the steps in the notebook:
    - **Data Exploration**: Understand the dataset structure.
